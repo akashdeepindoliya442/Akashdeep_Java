@@ -6,5 +6,6 @@ class Day_02_In_Java{
         System.out.print("Enter Your Age:");
         int Age=sc.nextInt();
         System.out.println("Your Age Is:"+Age);
+        sc.close();
     }
 }
