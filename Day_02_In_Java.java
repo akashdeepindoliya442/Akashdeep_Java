@@ -1,3 +1,4 @@
+//This Is My Second Java Program Of Inputs.
 import java.util.Scanner;
 class Day_02_In_Java{
     public static void main(String[] args) {
