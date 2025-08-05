@@ -1,4 +1,4 @@
-//This Is My Fifth Java Program To Find Multiples Of Any Number.
+//This Is My Fifth Java Program Of Loops To Find Multiples Of Any Number With The Help Of While Loop.
 import java.util.Scanner;
 class Day_05_In_Java{
     public static void main(String[] args) {
@@ -12,7 +12,5 @@ class Day_05_In_Java{
             i++;
         }
         sc.close();
-
-
     }
 }
