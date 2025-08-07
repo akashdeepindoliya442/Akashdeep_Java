@@ -7,7 +7,7 @@ public class Day_07_In_Java {
         System.out.print("Enter How Many Rows You Want To Print In A Hollow Ractangle:"); 
         int R=s.nextInt();
         Scanner c=new Scanner(System.in);
-        System.out.print("Enter How Many Rows You Want To Print In A Hollow Ractangle:");
+        System.out.print("Enter How Many Columns You Want To Print In A Hollow Ractangle:");
         int C=c.nextInt();
         for(int i=1;i<=R;i++){
             for(int j=1;j<=C;j++){
